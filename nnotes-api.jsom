@@ -1,0 +1,32 @@
+[
+  {
+    "noteId": 1,
+    "title": "Effective Study Techniques",
+    "description": "Discover the best strategies for efficient learning, time management, and retaining information for exams and daily knowledge building.",
+    "category": "Study"
+  },
+  {
+    "noteId": 2,
+    "title": "Stylish Casual Wear for Men",
+    "description": "Explore the latest trends in slim-fit fashion, featuring breathable fabrics, durable stitching, and a modern look perfect for any occasion.",
+    "category": "Shopping"
+  },
+  {
+    "noteId": 3,
+    "title": "Durable Cotton Jackets",
+    "description": "Stay comfortable and stylish with high-quality cotton jackets, designed for outdoor adventures and casual wear in any season.",
+    "category": "Shopping"
+  },
+  {
+    "noteId": 4,
+    "title": "Perfect Fit Slim Wear",
+    "description": "Upgrade your wardrobe with slim-fit clothing that combines elegance with comfort, ensuring a tailored look for every occasion.",
+    "category": "Shopping"
+  },
+  {
+    "noteId": 5,
+    "title": "Elegant Women's Jewelry",
+    "description": "Add a touch of sophistication with handcrafted jewelry inspired by timeless designs, perfect for enhancing any outfit.",
+    "category": "Jewelery"
+  }
+]
